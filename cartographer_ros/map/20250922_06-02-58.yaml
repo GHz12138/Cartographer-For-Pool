@@ -1,0 +1,6 @@
+image: /home/carto/carto_ws/src/cartographer_ros/map/20250922_06-02-58.pgm
+resolution: 0.05
+origin: [-1.25, -3.69641, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
